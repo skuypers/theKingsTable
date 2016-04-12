@@ -1,0 +1,35 @@
+An modified version of the King's Table can be played with a standard set of billard balls.
+
+The pieces align as follows:<br>
+Solids:<br>
+1 King<br>
+2 Bishop<br>
+3 Knight<br>
+4 Rook<br>
+5 Pawn<br>
+6 Pawn<br>
+7 Pawn<br>
+8 Pawn<br>
+
+Solids:<br>
+9 King<br>
+10 Bishop<br>
+11 Knight<br>
+12 Rook<br>
+13 Pawn<br>
+14 Pawn<br>
+15 Pawn<br>
+Cue Pawn<br>
+
+Each piece moves the same as in the full version except for the King which can be used for offense and has the same abilities as the Queen from the full version.
+The game ends when a King is pocketted. 
+
+Racking: <br>
+
+R  K  B  k      4  1  2  3<br>
+p  p  p  p      5  6  7  8<br>
+             > <br>
+p  p  p  p      13 14 15 C<br>
+R  K  B  k      12 9  10 11<br>
+
+When racking the balls be sure the pawns are no more than a ball width apart. 
